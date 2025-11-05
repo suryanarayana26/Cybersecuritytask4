@@ -1,1 +1,2 @@
 # Cybersecuritytask4
+Task 4: Exploitation & System Hardening (ApexPlanet Internship). Hands-on documentation covering Metasploit vsFTPd exploitation, Hydra SSH brute-forcing, John the Ripper hash cracking, and defensive iptables firewall mitigation on the Metasploitable2 environment.
